@@ -69,6 +69,7 @@ body {
     border-top: none;
     width: 10%;
     margin: 50px auto;
+    align-items: center;
   }
   
   .aboutme,
